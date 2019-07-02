@@ -1,0 +1,13 @@
+.measure-wide {
+	max-width: 64em;
+}
+
+.bg-dark-navy {
+	background-color:#001A29
+}
+
+.alignright {
+    float: right;
+    margin: 5px 0 20px 20px;
+}
+
