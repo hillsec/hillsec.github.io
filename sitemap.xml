@@ -3,33 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.hillsec.com/about/</loc>
+    <loc>https://www.hillsec.org/about/</loc>
     <lastmod>2019-07-02T13:25:48-06:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://www.hillsec.com/contact/</loc>
+    <loc>https://www.hillsec.org/</loc>
     <lastmod>2019-07-02T13:25:48-06:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://www.hillsec.com/</loc>
-    <lastmod>2019-07-02T13:25:48-06:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.hillsec.com/categories/</loc>
+    <loc>https://www.hillsec.org/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.hillsec.com/tags/</loc>
+    <loc>https://www.hillsec.org/tags/</loc>
     <priority>0</priority>
   </url>
   

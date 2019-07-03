@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on HillSec.org</title>
-    <link>https://www.hillsec.com/about/</link>
+    <link>https://www.hillsec.org/about/</link>
     <description>Recent content in About on HillSec.org</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 02 Jul 2019 13:25:48 -0600</lastBuildDate>
     
-	<atom:link href="https://www.hillsec.com/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.hillsec.org/about/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
